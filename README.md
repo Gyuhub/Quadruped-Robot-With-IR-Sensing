@@ -1,13 +1,13 @@
 # Quadruped-Robot-With-IR-Sensing
 
 ##  System Architecture
-![image]<img width="50%" src=(https://user-images.githubusercontent.com/78638866/119222794-0d8bf600-bb31-11eb-8250-1db748b594c1.png)>
+![system Architecture7](https://user-images.githubusercontent.com/78638866/119223544-0d8df500-bb35-11eb-832c-7482a224a25f.png
 
 ## Quadruped Robot
-![image]<img width="50%" src=(https://user-images.githubusercontent.com/78638866/119222830-38764a00-bb31-11eb-8055-2157f1f3ae43.jpg)>
+![4족보행로봇4](https://user-images.githubusercontent.com/78638866/119223558-1b437a80-bb35-11eb-87b0-7a71662fa51a.jpg)
 
 ## Remote Controller
-![image]<img width="50%" src=(https://user-images.githubusercontent.com/78638866/119222835-43c97580-bb31-11eb-8f73-fda7aafcb1bd.jpg)>
+![적외선리모컨1](https://user-images.githubusercontent.com/78638866/119223562-2696a600-bb35-11eb-911c-84804e96eb02.jpg)
 
 ## Video 1
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/78638866/119223493-c0aa1e80-bb34-11eb-8d40-97814c65f3ef.gif)
