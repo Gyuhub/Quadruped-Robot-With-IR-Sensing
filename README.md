@@ -1,7 +1,7 @@
 # Quadruped-Robot-With-IR-Sensing
 
 ##  System Architecture
-![system Architecture7](https://user-images.githubusercontent.com/78638866/119223544-0d8df500-bb35-11eb-832c-7482a224a25f.png
+![system Architecture7](https://user-images.githubusercontent.com/78638866/119223544-0d8df500-bb35-11eb-832c-7482a224a25f.png)
 
 ## Quadruped Robot
 ![4족보행로봇4](https://user-images.githubusercontent.com/78638866/119223558-1b437a80-bb35-11eb-87b0-7a71662fa51a.jpg)
