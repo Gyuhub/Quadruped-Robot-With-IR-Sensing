@@ -1,5 +1,5 @@
 # Quadruped-Robot-With-IR-Sensing
-
+2020년 전반기 작품 - 적외선 리모컨과 Atmega128, Dynamixel Ax-12를 사용한 Mobile Robot
 ##  System Architecture
 ![system Architecture7](https://user-images.githubusercontent.com/78638866/119223544-0d8df500-bb35-11eb-832c-7482a224a25f.png)
 
